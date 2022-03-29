@@ -256,7 +256,6 @@ public class HdrImage
 }
 
 
-
 /*
 	for (int i = 0; i < pixels.Length; i++)
 	{
